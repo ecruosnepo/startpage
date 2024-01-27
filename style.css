@@ -1,8 +1,8 @@
 @import url(https://cdn.jsdelivr.net/npm/firacode@6.2.0/distr/fira_code.css);
 
 :root {
-    --color-bg: #FDFDFD;
-    --color-fg: #EADBB2;
+    --color-bg: #F8F5F1;
+    --color-fg: #F8B400;
     --color-link: #8F9191;
     --color-link-visited: #8F9191;
     --color-link-hover: #FA7921 ;
